@@ -107,9 +107,9 @@ See the instructions below to deploy to your own AWS account:
 ### AWS CLI configuration
 
 * Replace `laurent` with your AWS profile name in the following files:
-  * code/makefile
-  * code/scripts/seed.ts
-  * infrastructure/providers.tf
+  * [code/makefile](https://github.com/LaurentEsc/homelike/blob/master/code/makefile)
+  * [code/scripts/seed.ts](https://github.com/LaurentEsc/homelike/blob/master/code/scripts/seed.ts)
+  * [infrastructure/providers.tf](https://github.com/LaurentEsc/homelike/blob/master/infrastructure/providers.tf)
 
 ### Deploy the infrastructure to AWS
 
