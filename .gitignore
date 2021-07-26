@@ -1,0 +1,6 @@
+code/dist
+code/node_modules
+
+infrastructure/placeholder-lambda.zip
+infrastructure/.terraform
+infrastructure/terraform.tfstate*
